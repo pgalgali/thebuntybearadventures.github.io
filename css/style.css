@@ -30,7 +30,17 @@
   @media (max-width: 1250px) {
     .site-container {
       width: 90%; } }
-
+	  
+.universal1-h2 {
+  font-size: 48px;
+  text-align: center;
+  color: #f3f0f0; }
+  @media (max-width: 1250px) {
+    .universal-h2 {
+      font-size: 38px; } }
+  @media (max-width: 668px) {
+    .universal-h2 {
+      font-size: 30px; } }
 .universal-h2 {
   font-size: 48px;
   text-align: center;
