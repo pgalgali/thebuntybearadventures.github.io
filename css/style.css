@@ -121,7 +121,14 @@
 
 .stop-scroll {
   overflow: hidden; }
-
+/* Navigation burger end */
+.fh5co-top-banner1 {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-image: url("../images/top-banner-bckg1.jpg");
+  background-position: center;
+  background-size: cover; }
 /* Navigation burger end */
 .fh5co-top-banner {
   position: relative;
